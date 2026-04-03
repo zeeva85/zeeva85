@@ -27,5 +27,4 @@ Debugging companion. Stares. Judges. Occasionally helps.
 <br clear="left" />
 
 ---
-
 [![X](https://img.shields.io/badge/-@zeeva85-000?style=flat-square&logo=x)](https://twitter.com/zeeva85)
