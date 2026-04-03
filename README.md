@@ -12,21 +12,19 @@ into all of this.
 
 ---
 
-
 ## Repos
 
-| | |
-|---|---|
-| 🧪 [DMA_shiny](https://github.com/zeeva85/DMA_shiny) | Shiny app for 96-well plate visualisation — [live ↗](https://zeeva85.shinyapps.io/DMA_shiny/) |
-| 🌍 [gapminderplus](https://github.com/zeeva85/gapminderplus) | Gapminder extension — R package + Shiny |
-| 📖 [minimal_guide_to_readr_dplyr_tidyr](https://github.com/zeeva85/minimal_guide_to_readr_dplyr_tidyr) | Tidyverse wrangling guide |
 
----
+| Project | Description |
+| :--- | :--- |
+| 🧪 [DMA_shiny](https://github.com/zeeva85/DMA_shiny) | Shiny app for 96-well plate visualisation — [live ↗](https://shinyapps.io) |
 
+---  
+  
 ## Debugging duck
 
 <img src="debugduck.jpg" width="72" align="left" style="margin-right:14px;border-radius:8px" />
-
+  
 **Not quite a duck.**  
 Debugging companion. Stares. Judges. Occasionally helps.
 
