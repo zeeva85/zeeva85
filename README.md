@@ -4,20 +4,16 @@
 
 ---
 
-PhD in Genome Science & Technology from UBC. My thesis
-work was on developing a high-throughput platform for
-variant functionalization — building platform and tools to screen and
-characterise cancer genetic variants at scale. Now learning AI tools and figuring out where they fit
-into all of this.
+My thesis work was on developing a high-throughput platform for variant functionalization — building platform and tools to screen and characterise cancer genetic variants at scale. Currently learning, exploring and reseaching AI tool(s) and figuring out where they fit into all of this.
 
 ---
 
 ## Repos
 
 
-| Project | Description |
+| Repository | Description |
 | :--- | :--- |
-| 🧪 [DMA_shiny](https://github.com/zeeva85/DMA_shiny) | Shiny app for 96-well plate visualisation — [live ↗](https://shinyapps.io) |
+| [DMA_shiny](https://github.com/zeeva85/DMA_shiny) | Shiny app for DMA (Deletion mutant array) & Animated growth visualization for 96-well plate — [live ↗](https://zeeva85.shinyapps.io/DMA_shiny/) |
 
 ---  
   
