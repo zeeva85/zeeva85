@@ -19,7 +19,7 @@ My thesis work was on developing a high-throughput platform for variant function
   
 ## Debugging duck
 
-<img src="debugduck.jpg" width="72" align="left" style="margin-right:14px;border-radius:8px" />
+<img src="debgduck.jpg" width="72" align="left" style="margin-right:14px;border-radius:8px" />
   
 **Not quite a duck.**  
 Debugging companion. Stares. Judges. Occasionally helps.
