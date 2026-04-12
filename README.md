@@ -4,7 +4,7 @@
 
 ---
 
-My thesis work was on developing a high-throughput platform for variant functionalization — building platform and tools to screen and characterise cancer genetic variants at scale. Currently learning, exploring and reseaching AI tool(s) and figuring out where they fit into all of this.
+I develop high-throughput platform for human gene variant functionalization — building tools to screen and characterise cancer genetic variants at scale. Currently learning, exploring and reseaching AI tool(s) and figuring out where they fit into all of this.
 
 ---
 
