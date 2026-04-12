@@ -1,7 +1,9 @@
 # Seevasant Indran
 
-![Variants](https://img.shields.io/badge/Variant%20functionalization-Data%20science-085041?style=flat-square&labelColor=E1F5EE) &nbsp; &nbsp; ![AI](https://img.shields.io/badge/Machine%20Learning-AI%20tools-633806?style=flat-square&labelColor=FAEEDA)
-
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Variant functionalization](https://img.shields.io/badge/Variant%20functionalization-10B981?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F59E0B?style=flat-square)
 ---
 
 I develop high-throughput platform for human gene variant functionalization — building tools to screen and characterise cancer genetic variants at scale. Currently learning, exploring and reseaching AI tool(s) and figuring out where they fit into all of this.
